@@ -1,0 +1,72 @@
+C:\Users\ADMIN\source\repos\misttool\misttool\bin\Debug\misttool.exe.config
+C:\Users\ADMIN\source\repos\misttool\misttool\bin\Debug\misttool.exe
+C:\Users\ADMIN\source\repos\misttool\misttool\bin\Debug\misttool.pdb
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.Form1.resources
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.exe
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.pdb
+C:\Users\ADMIN\source\repos\misttool\misttool\bin\Debug\Emgu.CV.World.dll
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.ResolveComReference.cache
+C:\Users\ADMIN\source\repos\misttool\misttool\obj\Debug\misttool.csproj.CopyComplete
+D:\misttool\misttool\bin\Debug\misttool.exe.config
+D:\misttool\misttool\bin\Debug\misttool.exe
+D:\misttool\misttool\bin\Debug\misttool.pdb
+D:\misttool\misttool\bin\Debug\Emgu.CV.World.dll
+D:\misttool\misttool\obj\Debug\misttool.csproj.AssemblyReference.cache
+D:\misttool\misttool\obj\Debug\Interop.AutoItX3Lib.dll
+D:\misttool\misttool\obj\Debug\misttool.csproj.ResolveComReference.cache
+D:\misttool\misttool\obj\Debug\misttool.Form1.resources
+D:\misttool\misttool\obj\Debug\misttool.Properties.Resources.resources
+D:\misttool\misttool\obj\Debug\misttool.csproj.GenerateResource.cache
+D:\misttool\misttool\obj\Debug\misttool.csproj.CoreCompileInputs.cache
+D:\misttool\misttool\obj\Debug\misttool.csproj.CopyComplete
+D:\misttool\misttool\obj\Debug\misttool.exe
+D:\misttool\misttool\obj\Debug\misttool.pdb
+C:\Users\ADMIN\Desktop\misttool\misttool\bin\Debug\misttool.exe.config
+C:\Users\ADMIN\Desktop\misttool\misttool\bin\Debug\misttool.exe
+C:\Users\ADMIN\Desktop\misttool\misttool\bin\Debug\misttool.pdb
+C:\Users\ADMIN\Desktop\misttool\misttool\bin\Debug\Emgu.CV.World.dll
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.Form1.resources
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.exe
+C:\Users\ADMIN\Desktop\misttool\misttool\obj\Debug\misttool.pdb
+E:\New folder\misttool\misttool\bin\Debug\misttool.exe.config
+E:\New folder\misttool\misttool\bin\Debug\misttool.exe
+E:\New folder\misttool\misttool\bin\Debug\misttool.pdb
+E:\New folder\misttool\misttool\bin\Debug\Emgu.CV.World.dll
+E:\New folder\misttool\misttool\obj\Debug\misttool.csproj.AssemblyReference.cache
+E:\New folder\misttool\misttool\obj\Debug\Interop.AutoItX3Lib.dll
+E:\New folder\misttool\misttool\obj\Debug\misttool.csproj.ResolveComReference.cache
+E:\New folder\misttool\misttool\obj\Debug\misttool.Form1.resources
+E:\New folder\misttool\misttool\obj\Debug\misttool.Properties.Resources.resources
+E:\New folder\misttool\misttool\obj\Debug\misttool.csproj.GenerateResource.cache
+E:\New folder\misttool\misttool\obj\Debug\misttool.csproj.CoreCompileInputs.cache
+E:\New folder\misttool\misttool\obj\Debug\misttool.csproj.CopyComplete
+E:\New folder\misttool\misttool\obj\Debug\misttool.exe
+E:\New folder\misttool\misttool\obj\Debug\misttool.pdb
+D:\E\New folder\misttool\misttool\bin\Debug\misttool.exe.config
+D:\E\New folder\misttool\misttool\bin\Debug\misttool.exe
+D:\E\New folder\misttool\misttool\bin\Debug\misttool.pdb
+D:\E\New folder\misttool\misttool\bin\Debug\Emgu.CV.World.dll
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.csproj.AssemblyReference.cache
+D:\E\New folder\misttool\misttool\obj\Debug\Interop.AutoItX3Lib.dll
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.csproj.ResolveComReference.cache
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.Form1.resources
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.Properties.Resources.resources
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.csproj.GenerateResource.cache
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.csproj.CoreCompileInputs.cache
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.csproj.CopyComplete
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.exe
+D:\E\New folder\misttool\misttool\obj\Debug\misttool.pdb
